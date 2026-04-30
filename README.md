@@ -27,3 +27,6 @@ A modern, high-performance REST API built for managing a product catalog. This p
 
 ## 🔗 Learning Credits
 This project was developed as part of the **Telusko FastAPI Tutorial**, covering modern REST API development and database integration.
+
+## 📸 Preview
+![Application Screenshot](./Screenshot/app-demo.png)
