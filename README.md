@@ -2,6 +2,10 @@
 
 A modern, high-performance REST API built for managing a product catalog. This project demonstrates the implementation of a full-stack backend architecture using Python.
 
+## 📌 Overview
+Designed and developed a backend system for managing product inventory using FastAPI. 
+The project demonstrates RESTful API design, database integration, and scalable backend architecture.
+
 ## 🚀 Features
 * **Asynchronous API:** Built with FastAPI for high performance.
 * **Database Management:** Uses PostgreSQL with SQLAlchemy ORM.
